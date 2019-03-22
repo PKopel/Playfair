@@ -14,6 +14,8 @@ fun run(f: JFrame, width: Int, height: Int) {
     }
 }
 
+
+//gui for SquareKt
 class EncryptWindow : JFrame() {
     private val decoded = JTextField(20)
     private val coded = JTextField(20)
